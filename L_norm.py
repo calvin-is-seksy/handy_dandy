@@ -3,4 +3,4 @@ def L_norm(p):
     mySum = 0.0
     for i in myList: 
         mySum += i**p
-    return mySum**(1.0/p)
+return mySum**(1.0/p)
